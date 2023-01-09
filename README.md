@@ -23,9 +23,9 @@ Maven Market is a multi-national grocery chain located in Canada, Mexico and the
 * Enables the business to evaluate the amount of impact on sales and profit based on the changes in the product sales price (such as product discounts)
 
 Below are the snapshots of the Power BI report (separated by pages)
-![Topline Performance](/Data Visualization/Snapshots/Topline_Performance.png)
-![Customer Analysis](/Data Visualization/Snapshots/Customer_Analysis.png)
-![Product What-If Analysis](/Data Visualization/Snapshots/Product_WhatIf.png)
+![Topline Performance](https://github.com/lishuent/data_projects/blob/main/Data%20Visualization/Snapshots/Topline_Performance.PNG?raw=true)
+![Customer Analysis](https://github.com/lishuent/data_projects/blob/main/Data%20Visualization/Snapshots/Customer_Analysis.PNG?raw=true)
+![Product What-If Analysis](https://github.com/lishuent/data_projects/blob/main/Data%20Visualization/Snapshots/Product_WhatIf.PNG?raw=true)
 
 ### Exploratory Data Analysis (EDA)
 #### Netflix EDA
